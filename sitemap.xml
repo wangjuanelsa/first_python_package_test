@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+         <loc>https://anyidea.github.io/first_package/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/first_package/"/>
+         
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/first_package/api/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/first_package/en/api/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/first_package/zh/api/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/first_package/changelog/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/first_package/en/changelog/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/first_package/zh/changelog/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/first_package/contributing/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/first_package/en/contributing/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/first_package/zh/contributing/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/first_package/installation/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/first_package/en/installation/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/first_package/zh/installation/"/>
+         
+    </url>
+    <url>
+         <loc>https://anyidea.github.io/first_package/usage/</loc>
+         <lastmod>2022-11-24</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://anyidea.github.io/first_package/en/usage/"/>
+         <xhtml:link rel="alternate" hreflang="zh" href="https://anyidea.github.io/first_package/zh/usage/"/>
+         
+    </url>
+</urlset>
